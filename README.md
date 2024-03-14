@@ -1,1 +1,1 @@
-Cration of branch - normal mode
+Cration of branch - normal mode. File edited after read only to new branch.
